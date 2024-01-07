@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    margin: auto;
+
+}
+
+.heading-style1 {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    font-size: 60px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-1 {
+    width: 400px;
+}
+.col-2{
+width: 400px;
+}
+.img-style{
+    opacity: 0.4;
+filter: grayscale(100%);
+}
+.img-style:hover{
+    opacity: 1.0;
+    filter: grayscale(0);
+}
