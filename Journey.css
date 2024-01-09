@@ -19,14 +19,17 @@
 .col-1 {
     width: 400px;
 }
-.col-2{
-width: 400px;
+
+.col-2 {
+    width: 400px;
 }
-.img-style{
+
+.img-style {
     opacity: 0.4;
-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
-.img-style:hover{
+
+.img-style:hover {
     opacity: 1.0;
     filter: grayscale(0);
 }
